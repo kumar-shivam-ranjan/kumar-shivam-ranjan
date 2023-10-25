@@ -4,4 +4,4 @@ I am a Computer Science student persuing my Bachelors in Technology from __India
 <br>
 ## Visit my personal website:
 
-https://ksrrock.github.io/
+https://kumar-shivam-ranjan.github.io/
